@@ -1,0 +1,12 @@
+C:\Users\HP user\Desktop\matriz\Pratica3_Application\Pratica3_Application\bin\Debug\Pratica3_Application.exe.config
+C:\Users\HP user\Desktop\matriz\Pratica3_Application\Pratica3_Application\obj\Debug\Pratica3_Application.csprojResolveAssemblyReference.cache
+C:\Users\HP user\Desktop\matriz\Pratica3_Application\Pratica3_Application\obj\Debug\Pratica3_Application.Form1.resources
+C:\Users\HP user\Desktop\matriz\Pratica3_Application\Pratica3_Application\obj\Debug\Pratica3_Application.Properties.Resources.resources
+C:\Users\HP user\Desktop\matriz\Pratica3_Application\Pratica3_Application\obj\Debug\Pratica3_Application.csproj.GenerateResource.Cache
+C:\Users\HP user\Desktop\matriz\Pratica3_Application\Pratica3_Application\bin\Debug\Pratica3_Application.exe
+C:\Users\HP user\Desktop\matriz\Pratica3_Application\Pratica3_Application\bin\Debug\Pratica3_Application.pdb
+C:\Users\HP user\Desktop\matriz\Pratica3_Application\Pratica3_Application\obj\Debug\Pratica3_Application.exe
+C:\Users\HP user\Desktop\matriz\Pratica3_Application\Pratica3_Application\obj\Debug\Pratica3_Application.pdb
+C:\Users\HP user\Desktop\puc\matriz\Pratica3_Application\Pratica3_Application\bin\Debug\Pratica3_Application.exe.config
+C:\Users\HP user\Desktop\puc\matriz\Pratica3_Application\Pratica3_Application\obj\Debug\Pratica3_Application.exe
+C:\Users\HP user\Desktop\puc\matriz\Pratica3_Application\Pratica3_Application\obj\Debug\Pratica3_Application.pdb
